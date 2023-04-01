@@ -65,6 +65,7 @@ export default {
   computed: {
     ...mapState(["usuario"]),
   },
+  
   methods: {
     // Este método se llama cada vez que el usuario selecciona una imagen
     buscarImagen(event) {

@@ -10,6 +10,7 @@
     "@babel/polyfill": "^7.0.0-rc.1",
     "@fortawesome/fontawesome-free": "^5.2.0",
     "firebase": "^5.8.3",
+    "grpc": "^1.24.11",
     "moment": "^2.24.0",
     "roboto-fontface": "*",
     "vue": "^2.6.6",
